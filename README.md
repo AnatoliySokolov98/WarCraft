@@ -1,6 +1,6 @@
 Basic WC Tool
 
-To install run make sure you have go downloaded and run:  go install github.com/AnatoliySokolov98/WarCraft/cmd@latest
+To install make sure you have go downloaded and run:  go install github.com/AnatoliySokolov98/WarCraft/cmd@latest
 
 To run the tool enter WarCraft then optional flags then filePath to get data for a file.
 
